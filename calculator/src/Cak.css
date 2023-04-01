@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.Main{
+    width: 320px;
+    margin:50px auto;
+}
+#answ{border-radius: 5px;
+    background-color: lightslategray;
+    padding:10px;
+    font-size: 35px;
+    width:320px;
+    text-align: right;
+    border:3px solid black;
+
+}
+.button{
+    border-radius: 5px;
+    width:80px;
+    height:80px;
+    background-color: black;
+    color:white;
+    font-size: 30px;
+    border:2px solid black;
+    float:left;
+}
+
+.button:hover{
+    color:green;
+}
+.butt1{
+    width: 160px;
+}
